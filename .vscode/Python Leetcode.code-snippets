@@ -1,0 +1,12 @@
+{
+	"Leetcode Python Header": {
+		"scope": "python",
+		"prefix": "lc-header",
+		"body": [
+			"# Github:   https://github.com/Kecheprathamesh",
+			"# Linkedin: https://www.linkedin.com/in/kecheprathamesh/",
+			"$0"
+		],
+		"description": "Insert Leetcode Python file header with Github and Linkedin links"
+	}
+}
